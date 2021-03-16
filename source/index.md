@@ -8,7 +8,11 @@ Welcome to guide's documentation!
 
 .. toctree::
    :maxdepth: 2
+
+   default
    :caption: Contents:
+
+
 
 
 
